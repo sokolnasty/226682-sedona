@@ -1,0 +1,25 @@
+html,
+body {
+  font-size: 14px;
+  line-height: 26px;
+  color: #333333;
+  font-weight: normal;
+  font-family: "Myriad Pro", "PTSans", sans-serif;
+}
+
+h1 {
+    font-size: px;
+    line-height: 24px;
+    color: #;
+    font-weight: ;
+    font-family: "", sans-serif;
+}
+
+h2 {
+    font-size: 21px;
+    line-height: 26px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "PTSans", sans-serif;
+}
+
